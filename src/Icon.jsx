@@ -13,14 +13,17 @@ function Icon(props) {
       {iconLib[icon].d && iconLib[icon].d.map((def, i) => {
         return <path fill={color} key={i} d={def} />
       })}
-      {iconLib[icon].customChildren}
+
+      {/* <div style={{color: [color]}}> */}
+        {iconLib[icon].customChildren}
+      {/* </div> */}
     </svg>
   )
 }
 
 Icon.defaultProps = {
     size: 16,
-    color: "#000000",
+    color: "#484848",
     style: {},
     width: "20px",
     height: "20px"

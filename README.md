@@ -20,6 +20,7 @@
 | glassWare     |             Glassware             |
 | hanger        |            Coat Check             |
 | hotTub        |              Hot Tub              |
+| insurence     |             Insurence             |
 | linens        |              Linens               |
 | view          |         Spectacular View          |
 | parking       |     Parking (Indoor/ Outdoor)     |
@@ -29,6 +30,7 @@
 | projector     |             Projector             |
 | safety        |              Safety               |
 | securityCam   |           Security Cam            |
+| size          |               Size                |
 | soundSystem   |           Sound System            |
 | table         |               Table               |
 | terrace       |              Terrace              |
